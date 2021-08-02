@@ -1,0 +1,45 @@
+body{
+background-color: black;
+
+}
+h1{
+    color: white;
+    background-color: darkblue;
+    font-size: 60px;
+    font-family: algerian;
+    text-align: center;
+padding: 20px;
+margin: 20px;
+}
+.two{
+    color: black;
+    background-color: darkblue;
+}
+.p{
+    font-family: comic sans ms;
+    font-size: 25px;
+    color: white;
+    background-color: black;
+    padding: 20px;
+margin: 20px;
+}
+img{
+    position: relative;
+    bottom: -100px;
+    left: 500px;
+    padding: 20px;
+margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    font-size: 30px;
+    font-family: Century Schoolbook;
+    padding: 20px;
+    background:none;
+    float: right;
+}
+a:hover{
+    background-color: darkblue;
+    color: cyan;
+}
